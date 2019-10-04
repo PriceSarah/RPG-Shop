@@ -6,15 +6,20 @@ using System.Threading.Tasks;
 
 namespace RPG_Shop
 {
-    class Armor : Items
+    class Weapon : Items
     {
-        public Armor(string newName, string newDescription, int newWeight, int newSpace, int newCost)
+        public Weapon(string newName, string newDescription, int newWeight, int newSpace, int newCost)
         {
             name = newName;
             description = newDescription;
             weight = newWeight;
             space = newSpace;
             cost = newCost;
+
         }
+
     }
 }
+
+    
+

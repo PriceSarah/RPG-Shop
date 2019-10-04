@@ -44,14 +44,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Armor.cs" />
-    <Compile Include="categories.cs" />
+    <Compile Include="Shop.cs" />
     <Compile Include="Inventory.cs" />
     <Compile Include="Items.cs" />
     <Compile Include="MagicItems.cs" />
     <Compile Include="OtherItems.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Weapons.cs" />
+    <Compile Include="Weapon.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

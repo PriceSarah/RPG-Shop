@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace RPG_Shop
 {
-    class MagicItems
+    class MagicItems : Items
     {
+        public MagicItems(string newName, string newDescription, int newWeight, int newSpace, int newCost)
+        {
+            name = newName;
+            description = newDescription;
+            weight = newWeight;
+            space = newSpace;
+            cost = newCost;
+        }
     }
 }

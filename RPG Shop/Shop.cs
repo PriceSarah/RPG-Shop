@@ -24,5 +24,15 @@ namespace RPG_Shop
             //load stuff into inventory
         }
        
+        public void Buy()
+        {
+
+        }
+
+        public void Sell()
+        {
+
+        }
+
     }
 }

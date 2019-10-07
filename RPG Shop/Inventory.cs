@@ -8,7 +8,7 @@ namespace RPG_Shop
 {
     class Inventory : Items
     {
-        int gold = 300;
+        int gold = 500;
         int minGold = 0;
         int inventorySpace = 0;
         int inventorySpaceMax = 25;

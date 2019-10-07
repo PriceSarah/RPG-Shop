@@ -47,7 +47,6 @@
     <Compile Include="Shop.cs" />
     <Compile Include="Inventory.cs" />
     <Compile Include="Items.cs" />
-    <Compile Include="MagicItems.cs" />
     <Compile Include="OtherItems.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
